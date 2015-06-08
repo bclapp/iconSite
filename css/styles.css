@@ -41,19 +41,21 @@ FONTS
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-contact:before {
+  content: "a";
+}
+.icon-extra:before {
+  content: "b";
+}
 .icon-home:before {
-  content: "e";
+  content: "c";
 }
 .icon-profile:before {
-  content: "f";
-}
-.icon-contact:before {
-  content: "g";
+  content: "d";
 }
 .icon-share:before {
-  content: "h";
+  content: "e";
 }
-
 
 
 /********************
